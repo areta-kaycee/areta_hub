@@ -1,0 +1,101 @@
+/** {
+	text-align: right;
+}
+
+
+body {
+	background-image: url(home.jpg);
+	background-size: cover;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+img {
+	float: left;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+}
+
+h2, p {
+	color:black;
+	text-align: center;
+	border: solid 2px rgba(0,0,100,0.4);
+	cursor: pointer;
+}
+
+p {
+	color: green;
+/*	text-decoration: underline;
+*/	text-transform: uppercase;
+	line-height: 50px;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 100%;
+}
+
+#div1 {
+	font-family: cursive;
+/*	border: solid 4px rgba(255,0,0,0.2);
+*/	background-color: rgba(0,255,0,0.2);
+}
+
+/*.webtext {
+	border: solid 2px rgba(0,0,100,0.4);
+}*/
+
+   label {
+              font-family:serif;
+              font-size: 15px;
+              color: ghostwhite;
+              font-weight: bold;
+          }
+          
+          body  {
+              align-content: center;
+          }
+          
+          .container {
+              padding-top: 1%;
+          }
+          
+          button,
+         input[type=submit] {
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        color: black;    
+        background-color: cadetblue;
+        font-family: serif;
+        font-weight: bold;
+    }
+    
+    input[type=text],
+    input[type=email],
+    input[type=password],
+     input[type=tel] {
+        width: 40%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+    }
+    
+            button:hover,
+            input[type=submit]:hover {
+               background-color: chartreuse;
+     }
+          
+          a {
+              color: cadetblue;
+              font-family: serif;
+              
+          }*/

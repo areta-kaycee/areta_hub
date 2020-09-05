@@ -1,0 +1,109 @@
+body {
+	margin: auto 0;
+	color: black;
+}
+
+h2 {
+	font-family: inherit;
+}
+
+.nav-header {
+	border: solid 1px black;
+	border-radius: 300px;
+	padding: 1rem 2rem;
+	text-align: center;
+	font-weight: 700;
+	background-color: green;
+	font-family: 'Amita';font-size: 22px;
+}
+
+.navbar {
+	display: flex;
+	list-style: none;
+	font-size: 1em;
+}
+
+.nav-item {
+	font-size: 1rem;
+	font-weight: 700;
+}
+
+.dropdown-menu > a {
+	font-size: 1rem;
+	font-weight: 700;
+}
+
+hr {
+	border-color: black;
+	border-width: 3px;
+	max-width: 130px;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar {
+        font-size: 0.5em;
+        padding: 0;
+    }
+}
+
+img {
+	height: 400px;
+	widows: 400px;
+}
+
+.box {
+	border:2px solid green;
+	display: inline-block;
+	padding: 3px;
+	margin: 5px;
+	box-shadow: 4px 4px 5px #888888;
+
+}
+
+
+.box-price {
+	border: 1px solid orange;
+	padding: 0.5rem;
+	margin: 4px;
+	border-radius: 300px;
+	background: orange;
+	transition: all 1s;
+	font-color:black;
+	font-weight: 700;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+
+
+.box-price:hover {
+	transform: scale(1.1);
+	background-color: #ee4b08;
+}
+
+.btn-sec {
+	background-color: paleturquoise;
+	font-family: cursive;
+	font-weight: 700;
+	text-transform: lowercase;
+}
+
+
+
+.container {
+    display: flex;
+   /* align-items: center;
+    justify-content: center;
+    height: 50vh;*/
+}
+
+.footer {
+	background-color: darkgrey;
+}  
+
+.foot-container {
+	height: 20vh;
+	text-align: center;
+	justify-content: center;
+	padding: 4em;
+}
