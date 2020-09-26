@@ -1,6 +1,5 @@
 
 
-}
 
 @media only screen and (max-width: 600px) {
     .navbar {
@@ -35,7 +34,7 @@ h2  {
 
 #about {
 	color: #ffffff;
-	text-alignhub
+	text-align: center;
 	text-transform: uppercase;
 	line-height: 50px;
 	font-style: italic;
@@ -53,3 +52,4 @@ h2  {
 	font-weight: 700;
 	font-family: 'Amita';font-size: 18px;
 }
+
