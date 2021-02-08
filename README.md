@@ -1,2 +1,2 @@
 # areta_stores
-online store where small retailers can sell their products
+online store where retailers can sell their products
